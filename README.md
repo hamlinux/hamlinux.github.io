@@ -1,2 +1,2 @@
 # tlwillis.github.io
-A place to showcase my Data analysis projects
+A place to showcase my Data Analysis projects
