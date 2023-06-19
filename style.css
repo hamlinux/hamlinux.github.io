@@ -1,0 +1,8 @@
+body {
+  margin: 0 ;
+  max-width: 2000px;
+  padding: 5px;
+  background-color: green;
+  color: black;
+  font-family: monospace;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta charset="utf-8" />
+		<title>Lets try out Sblg!</title>
+		<link rel="stylesheet" href="template.css" />
+		<link rel="alternate" href="atom.xml" type="application/atom+xml" title="Atom Feed" />
+	</head>
+	<body>
+		<header>
+			<h1><a href="index.html">C0qro4ch's Blog</a></h1>
+			<nav class="sblg-nav">
+				<span class="prevnext sblg-prev-has">
+					<a href="article2.html">&lt;-newer</a>
+				</span>
+				<span class="prevnext ">
+					<a href="article3.html">older-&gt;</a>
+				</span>
+			</nav>
+		</header>
+		<section>
+			<p>
+				<q>Maybe I can find a Blogging system that will encourage me to write something
+	interesting.</q>
+			</p>
+			<p>
+				Published by
+				<span class="name">Thomas Willis</span>
+				on
+				<time datetime="2021-05-09">2021-05-09</time>
+			</p>
+			<article data-sblg-article="1" data-sblg-tags="openbsd blog sblg">
+ <header>
+  <h2>Lets try out Sblg!</h2>
+  <aside>Maybe I can find a Blogging system that will encourage me to write something
+	interesting.</aside>
+  <address>Thomas Willis</address>
+  <time datetime="2021-05-09">2021-05-09</time>
+ </header>
+<p>I&#39;ve been meaning to start Blogging for quite some time, but especially since I decided to drop all Social Media. I needed to have some kind of media that would work with the way I tend to use technolgy. I didn&#39;t want to use a blogging service with loads f features and wizbang graphics, nor did I want to have my data managed owned or stored by some unknown entity. Since for the last year I have been attempting to see how much of my daily computer life I could accomplish with OpenBSD on the release of 6.9 I started looking into what was offered in base and the ports.</p>
+
+<p>There wasn&#39;t much in ports, but Sblg was exactly what I was looking for. Edit XML templates and compile the whole page at one time including an Atom rss link. The retro template, was just the thing and quickly utilized it for my sites CSS as well. My initial attempts to compile failed horribly, but I copied the repo to my project directory and recompiled to a local directory and then pushed it up to my server with Git and everything just worked. Now to replace the example.xml files with my own ideas and maybe I can stay motivated.</p>
+</article>
+			<p class="tags">
+				Tags: <span class="sblg-tag">openbsd</span><span class="sblg-tag">blog</span><span class="sblg-tag">sblg</span>.
+			</p>
+		</section>
+		<nav>
+			<span class="prevnext sblg-prev-has">
+				<a href="article2.html">&lt;-newer</a>
+			</span>
+			<span class="prevnext ">
+				<a href="article3.html">older-&gt;</a>
+			</span>
+		</nav>
+		<footer>
+			<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+				CC BY-SA 4.0</a> | powered by <a href="https://kristaps.bsd.lv/sblg">sblg</a>
+		</footer>
+	</body>
+</html>

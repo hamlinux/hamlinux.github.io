@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>C0qro4ch and XomBSD</title>
+	<link href="https://kristaps.bsd.lv/sblg/examples/retro" />
+	<link href="https://kristaps.bsd.lv/sblg/examples/retro/atom.xml" rel="self" />
+	<id>https://kristaps.bsd.lv/sblg/examples/retro</id>
+	<updated>2021-05-11T00:00:00Z</updated>
+	<entry>
+		<id>https://kristaps.bsd.lv/sblg/examples/retro/article3.xml#2021-05-11T00:00:00Z</id>
+		<updated>2021-05-11T00:00:00Z</updated>
+		<title>Surrounded by Sheep</title>
+		<author><name>C0qro4ch</name></author>
+		<link rel="alternate" type="text/html" href="https://kristaps.bsd.lv/sblg/examples/retro/article3.html" />
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+When Russian hackers succeed at a ransomware attack against a pipeline the pumps don&#39;t immediately dry up at the Quickie Mart!</div>
+		</content>
+	</entry>
+	<entry>
+		<id>https://kristaps.bsd.lv/sblg/examples/retro/article2.xml#2021-05-10T00:00:00Z</id>
+		<updated>2021-05-10T00:00:00Z</updated>
+		<title>Why OpenBSD</title>
+		<author><name>Thomas Willis</name></author>
+		<link rel="alternate" type="text/html" href="https://kristaps.bsd.lv/sblg/examples/retro/article2.html" />
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+Why are you using that Ugly Ass Boomer OS?!</div>
+		</content>
+	</entry>
+	<entry>
+		<id>https://kristaps.bsd.lv/sblg/examples/retro/article1.xml#2021-05-09T00:00:00Z</id>
+		<updated>2021-05-09T00:00:00Z</updated>
+		<title>Lets try out Sblg!</title>
+		<author><name>Thomas Willis</name></author>
+		<link rel="alternate" type="text/html" href="https://kristaps.bsd.lv/sblg/examples/retro/article1.html" />
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+Maybe I can find a Blogging system that will encourage me to write something
+	interesting.</div>
+		</content>
+	</entry>
+
+</feed>
+
